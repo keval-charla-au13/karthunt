@@ -20,3 +20,11 @@ This is basically a **MERN Stack** (MongoDB, Express, React and Node) **ecommerc
 13.  PayPal / credit card integration
 14.  Order summary
 15.  Email notification when an order is placed
+
+## Tech Stack  💻
+-   [React.js](https://reactjs.org/)
+-   [Node.js](https://nodejs.org/en/)
+-   [Express.js](https://expressjs.com/)
+-   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+-   [Redux](https://redux.js.org/)
+
